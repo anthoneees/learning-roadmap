@@ -10,13 +10,13 @@ Welcome! This repo is a collection of everything I've built while learning syste
 - [dsa-hash-table](https://github.com/anthoneees/dsa-hash-table)
 
 ## 🌐 Networking Projects
-- [net-ip-sniffer](https://github.com/anthoneees/net-ip-sniffer)
+- [net-ip-packet-sniffer](https://github.com/anthoneees/net-ip-packet-sniffer)
 - [net-icmp-ping](https://github.com/anthoneees/net-icmp-ping)
-- 
+
 ## 💻 Web Development
 - [web-personal-portfolio](https://github.com/anthoneees/anthoneees.github.io)
 - [web-volleyball-website](https://github.com/anthoneees/web-volleyball-website)
-- 
+
 ---
 
 ### 🧠 About
